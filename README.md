@@ -13,4 +13,4 @@ Installation
 git clone https://github.com/dylanwinn/gnome-shell-extension-stealmyfocus.git ~/.local/share/gnome-shell/extensions/steal-my-focus@kagesenshi.org
 ```
 
-Note that the directory *must* be named steal-my-focus@kagesenshi.org. With that done, logout or hit Alt+F2 and enter the command 'r' to reload your extensions. You can enable Steam My Focus using gnome-tweak-tool or on https://extensions.gnome.org/local/.
+Note that the directory *must* be named steal-my-focus@kagesenshi.org. With that done, either logout or hit Alt+F2 and enter the command "r" to reload your extensions. You can enable Steal My Focus using gnome-tweak-tool or on https://extensions.gnome.org/local/.
